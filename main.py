@@ -2,7 +2,7 @@ import pygame
 #import your controller
 mylist=[]
 for i in range(4):
- mylist.append((int(input("Enter an Interger "))))
+ mylist.append((int(input("Enter an Integer "))))
                          
 for i in mylist:
   print(i)

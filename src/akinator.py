@@ -1,7 +1,7 @@
 import time
 import sys
 
-class Questions: 
+class Akinator: 
 
   def dininghalls():
     def game():

@@ -1,19 +1,17 @@
 import pygame
+from src.controller import Controller
+#import src.controller 
 #import your controller
-mylist=[]
-for i in range(4):
- mylist.append((int(input("Enter an Integer "))))
-                         
-for i in mylist:
-  print(i)
-  
-mylist[0], mylist[3] = mylist[3], mylist[0] 
-print(mylist)
+
 
 
 def main():
     pygame.init()
     #Create an instance on your controller object
+  
+    game = Controller()
+    game.mainloop()
+  
     #Call your mainloop
     
     ###### NOTHING ELSE SHOULD GO IN main(), JUST THE ABOVE 3 LINES OF CODE ######

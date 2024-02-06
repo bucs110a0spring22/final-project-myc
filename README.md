@@ -1,16 +1,16 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# Binginator 
 ## CS 110 Final Project
-### << Semester, Year >>
+### Spring, 2022
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
 << [repl](#) >>
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: MYC
+#### Yisel Flores, Caitlyn Maier, Mayerli Gordillo
 
 ***
 
@@ -26,7 +26,11 @@
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
 
-***        
+
+
+[https://docs.google.com/document/d/16H1f3nN1IcPDfuU1_tXwfdK3fdDB0OQBy-tyI4m6OOk/edit](https://docs.google.com/document/d/16H1f3nN1IcPDfuU1_tXwfdK3fdDB0OQBy-tyI4m6OOk/edit?usp=sharing)
+
+***  
 
 ## Program Design *(Backend Specialist)*
 
@@ -60,15 +64,15 @@ The Project is broken down into the following file structure:
 
    * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
-### Software Lead - << name >>
+### Software Lead - Yisel Flores
 
 << Worked as integration specialist by... >>
 
-### Front End Specialist - << name >>
+### Front End Specialist - Mayerli Gordillo
 
 << Front-end lead conducted significant research on... >>
 
-### Back End Specialist - << name >>
+### Back End Specialist - Caitlyn Maier
 
 << The back end specialist... >>
 
